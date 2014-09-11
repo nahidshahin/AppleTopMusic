@@ -22,9 +22,15 @@ Display to user saved to favorites songs from the DB.
 On click on each entry menu with Delete option should be displayed.
 
 Technical requirements:
+-----------------------
 
  * You can use any frameworks and libraries.
  * Use Android official build tool Gradle.
  * minSdkVersion = 15 (use all advantages of 15 API level)
  * Follow OOP best practices
  * Following Android design and development best practices, good usability is a big plus.
+
+ScreenShot
+----------
+
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
