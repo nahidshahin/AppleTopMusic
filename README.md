@@ -32,5 +32,5 @@ Technical requirements:
 
 ScreenShot
 ----------
+![ScreenShot](https://raw.github.com/nahidshahin/AppleTopMusic/master/doc/screenshot-3.png)
 
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
